@@ -1,11 +1,14 @@
-# Zeiterfassung
+# Welcome
 
-#Normales Arbeitszeitmodell Montags- Freitags 08.00 bis 16.00 Uhr
+Hier möchte ich Euch auf die Reise zu Erfolgen und Misserfolgen in meinem Praktikum mitnehmen.
+Es gibt so viele verschiedene Fehlermeldungen, die kann sich doch keiner merken, der gerade anfängt, deswegen habe ich mir gedacht, dass
+ich Euch auf die Reise mitnehmen. Ich versuche meine Fehler, die ich im Laufe der Zeit mache, hier zu dokumentieren und dementsprechend meine Lösung zu präsentieren.
+Vielleicht hilft es dem einen oder anderen.
 
-# erfassen von Arbeitsbeginn und Feierabend
-  # kurzes "einstempeln" zu Arbeitsbeginn sowie "ausstempeln" zu Feierabend
+# Damit wird momentan gearbeitet:
 
-# Eine Funktion die es einem ermöglicht sich in den "Urlaub" zu stempeln
-  # warum wichtig? damit die Erfassung nicht in Minusstunden rutscht
-   # (Beispiel: Peter hat Donnerstags seinen letzten Arbeitstag. Donnerstag Nachmittag um 16 Uhr begibt er sich zur Zeiterfassung. Anstatt sich "auszustempeln" wählt er den Modus "Urlaub"
-   # Er tritt seinen 14 Tägigen Urlaub an un kommt an einem Montag zur Arbeit und stempelt wie gewohnt ein. Somit hätte die Zeiterfassung keine Minusstunden in Peters Konto gebucht sondern ledigliche die Urlaubstage vom Gesamturlaub abgezogen.
+- Visual Studio Code
+- Python (aktuelle Version)
+- Briefcase (Beeware)
+- Toga (GUI Toolkit)
+
